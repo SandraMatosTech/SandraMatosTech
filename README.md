@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Sandra Matos</h1>
-<h3 align="center">Uma aspirante a desenvolvedora full stack no Brasil</h3>
+<h3 align="center">Aspirante a desenvolvedora full stack no Brasil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
