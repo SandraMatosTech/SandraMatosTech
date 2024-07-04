@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Eu sou Sandra Matos</h1>
 <h4 align="center">Aspirante a desenvolvedora full stack no Brasil</h4>
-<p> Essas são algumas das linguagens que tenho praticado:</p>
+<p> Acredito no potencial da tecnologia para promover uma sociedade com mais oportunidades e inclusão!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/sandramatostech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sandramatostech" height="30" width="40" /></a>
