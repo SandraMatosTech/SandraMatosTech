@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Eu sou Sandra Matos</h1>
-<h4 align="center">Aspirante a desenvolvedora full stack no Brasil</h4>
+<h4 align="center"> Desenvolvedora Web Full Stack | Front-End | Back-End</h4>
 <p> Acredito no potencial da tecnologia para promover uma sociedade com mais oportunidades e inclusão!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
